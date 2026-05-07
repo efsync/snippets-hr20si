@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://efsync.github.io/snippets-hr20si/sitemap.xml
